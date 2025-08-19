@@ -1,0 +1,333 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/services/accounting.png",
+    "title": "Income Tax Audit",
+    "slug": "income-tax-audit",
+    "description": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading": "Key Features",
+      "points": [
+        "Bookkeeping and ledger maintenance",
+        "Payroll and salary processing",
+        "Tax calculations and returns"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "image": "/assets/services/audit.png",
+    "title": "Company Audit",
+    "slug": "company-audit",
+    "description": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading": "What We Cover",
+      "points": [
+        "Internal and statutory audits",
+        "Regulatory compliance",
+        "Risk and control assessment"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "image": "/assets/services/consulting.png",
+    "title": "Company Incorporation",
+    "slug": "company-incorporation",
+    "description": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading": "Our Expertise",
+      "points": [
+        "Financial planning and forecasting",
+        "Market entry strategies",
+        "Business process improvement"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "image": "/assets/services/consulting.png",
+    "title": "GST e-Filing",
+    "slug": "gst-e-filing",
+    "description": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading": "Our Expertise",
+      "points": [
+        "Financial planning and forecasting",
+        "Market entry strategies",
+        "Business process improvement"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "image": "/assets/services/consulting.png",
+    "title": "LLP Incorporation",
+    "slug": "llp-incorporation",
+    "description": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading": "Our Expertise",
+      "points": [
+        "Financial planning and forecasting",
+        "Market entry strategies",
+        "Business process improvement"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "image": "/assets/services/consulting.png",
+    "title": "PF and ESIC Registration",
+    "slug": "pf-and-esic-registration",
+    "description": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading": "Our Expertise",
+      "points": [
+        "Financial planning and forecasting",
+        "Market entry strategies",
+        "Business process improvement"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "image": "/assets/services/consulting.png",
+    "title": "TDS Preparation and E-Filing",
+    "slug": "tds-preparation-and-e-filing",
+    "description": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading": "Our Expertise",
+      "points": [
+        "Financial planning and forecasting",
+        "Market entry strategies",
+        "Business process improvement"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "image": "/assets/services/consulting.png",
+    "title": "Accounting",
+    "slug": "accounting",
+    "description": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading": "Our Expertise",
+      "points": [
+        "Financial planning and forecasting",
+        "Market entry strategies",
+        "Business process improvement"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "image": "/assets/services/consulting.png",
+    "title": "Digital Signature",
+    "slug": "digital-signature",
+    "description": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading": "Our Expertise",
+      "points": [
+        "Financial planning and forecasting",
+        "Market entry strategies",
+        "Business process improvement"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "image": "/assets/services/consulting.png",
+    "title": "Food License",
+    "slug": "food-license",
+    "description": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading": "Our Expertise",
+      "points": [
+        "Financial planning and forecasting",
+        "Market entry strategies",
+        "Business process improvement"
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "image": "/assets/services/consulting.png",
+    "title": "PAN Application",
+    "slug": "pan-application",
+    "description": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading": "Our Expertise",
+      "points": [
+        "Financial planning and forecasting",
+        "Market entry strategies",
+        "Business process improvement"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "image": "/assets/services/consulting.png",
+    "title": "GST Registration",
+    "slug": "gst-registration",
+    "description": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading": "Our Expertise",
+      "points": [
+        "Financial planning and forecasting",
+        "Market entry strategies",
+        "Business process improvement"
+      ]
+    }
+  },
+    {
+    "id": 13,
+    "image": "/assets/services/consulting.png",
+    "title": "Income Tax E-Filing",
+    "slug": "income-tax-e-filing",
+    "description": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading": "Our Expertise",
+      "points": [
+        "Financial planning and forecasting",
+        "Market entry strategies",
+        "Business process improvement"
+      ]
+    }
+  },
+      {
+    "id": 14,
+    "image": "/assets/services/consulting.png",
+    "title": "PARTNERSHIP FIRM REGISTRATION",
+    "slug": "partnership-firm-registration",
+    "description": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading": "Our Expertise",
+      "points": [
+        "Financial planning and forecasting",
+        "Market entry strategies",
+        "Business process improvement"
+      ]
+    }
+  },
+      {
+    "id": 15,
+    "image": "/assets/services/consulting.png",
+    "title": "Professional Tax",
+    "slug": "professional-tax",
+    "description": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading": "Our Expertise",
+      "points": [
+        "Financial planning and forecasting",
+        "Market entry strategies",
+        "Business process improvement"
+      ]
+    }
+  },
+   {
+    "id": 16,
+    "image": "/assets/services/consulting.png",
+    "title": "PROJECT REPORT",
+    "slug": "project-report",
+    "description": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading": "Our Expertise",
+      "points": [
+        "Financial planning and forecasting",
+        "Market entry strategies",
+        "Business process improvement"
+      ]
+    }
+  },
+   {
+    "id": 17,
+    "image": "/assets/services/consulting.png",
+    "title": "ROC COMPLIANCES",
+    "slug": "roc-compliances",
+    "description": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading": "Our Expertise",
+      "points": [
+        "Financial planning and forecasting",
+        "Market entry strategies",
+        "Business process improvement"
+      ]
+    }
+  },
+   {
+    "id": 18,
+    "image": "/assets/services/consulting.png",
+    "title": "Shop Act License",
+    "slug": "shop-act-license",
+    "description": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading": "Our Expertise",
+      "points": [
+        "Financial planning and forecasting",
+        "Market entry strategies",
+        "Business process improvement"
+      ]
+    }
+  },
+   {
+    "id": 19,
+    "image": "/assets/services/consulting.png",
+    "title": "TAN APPLICATION",
+    "slug": "tan-application",
+    "description": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading": "Our Expertise",
+      "points": [
+        "Financial planning and forecasting",
+        "Market entry strategies",
+        "Business process improvement"
+      ]
+    }
+  },
+   {
+    "id": 20,
+    "image": "/assets/services/consulting.png",
+    "title": "Trademark Registration",
+    "slug": "trademark-registration",
+    "description": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading": "Our Expertise",
+      "points": [
+        "Financial planning and forecasting",
+        "Market entry strategies",
+        "Business process improvement"
+      ]
+    }
+  },
+   {
+    "id": 21,
+    "image": "/assets/services/consulting.png",
+    "title": "Udyam Registration",
+    "slug": "udyam-registration",
+    "description": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading": "Our Expertise",
+      "points": [
+        "Financial planning and forecasting",
+        "Market entry strategies",
+        "Business process improvement"
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "image": "/assets/services/consulting.png",
+    "title": "Hire An Accountant",
+    "slug": "hire-an-accountant",
+    "description": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "heading": "Our Expertise",
+      "points": [
+        "Financial planning and forecasting",
+        "Market entry strategies",
+        "Business process improvement"
+      ]
+    }
+  }
+
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ajay Kumar",
+    "location": "Pune",
+    "feedback": "This handy tool helps you create dummy text for all your layout needs. We are gradually adding new, This handy tool helps you create dummy text for all your layout needs.",
+    "image": "/assets/home/testimonial.png"
+  },
+  {
+    "name": "Ajay Kumar",
+    "location": "Pune",
+    "feedback": "This handy tool helps you create dummy text for all your layout needs. We are gradually adding new, This handy tool helps you create dummy text for all your layout needs.",
+    "image": "/assets/home/testimonial.png"
+  },
+  {
+    "name": "Neha Patil",
+    "location": "Bangalore, India",
+    "feedback": "This handy tool helps you create dummy text for all your layout needs. We are gradually adding new, This handy tool helps you create dummy text for all your layout needs.",
+    "image": "/assets/home/testimonial.png"
+  },
+  {
+    "name": "Ravi Deshmukh",
+    "location": "Nagpur, India",
+    "feedback": "This handy tool helps you create dummy text for all your layout needs. We are gradually adding new, This handy tool helps you create dummy text for all your layout needs.",
+    "image": "/assets/home/testimonial.png"
+  },
+  {
+    "name": "Sonali Joshi",
+    "location": "Nashik, India",
+    "feedback": "This handy tool helps you create dummy text for all your layout needs. We are gradually adding new, This handy tool helps you create dummy text for all your layout needs.",
+    "image": "/assets/home/testimonial.png"
+  }
+]

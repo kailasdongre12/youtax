@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Mastering React in 30 Days",
+    "description": "This comprehensive guide walks you through the essentials of becoming proficient with React, covering everything from JSX to hooks, and project structuring.",
+    "image": "/assets/home/blog.png"
+  },
+  {
+    "id": 2,
+    "title": "Why TypeScript Improves Your JS Code",
+    "description": "Explore how TypeScript enhances JavaScript development by adding type safety, IDE support, and robust tooling. Great for large projects!",
+    "image": "/assets/home/blog.png"
+  },
+  {
+    "id": 3,
+    "title": "Deploying Full Stack Apps on Vercel",
+    "description": "Learn how to deploy your full stack applications using Vercel, including API routes, frontend hosting, and custom domains.",
+    "image": "/assets/home/blog.png"
+  }
+]

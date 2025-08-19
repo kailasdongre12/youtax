@@ -1,0 +1,11 @@
+[
+    {
+        "id": "1",
+        "serviceTitle": "Income Tax Audit",
+        "slug": "income-taxt-audit",
+        "image": "/assets/services/incomeTaxAudit/incomeAudit.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+
+    }
+]
