@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Telecaller",
+    "salary": "Rs. 12000 per month",
+    "experience": "0 to 3 years",
+    "location": "Pune",
+    "description": "As a Telecaller, you will handle inbound and outbound calls, explain services, maintain client records, and ensure customer satisfaction."
+  },
+  {
+    "id": 2,
+    "title": "Field Accountant",
+    "salary": "Rs. 12000 per month",
+    "experience": "0 to 3 years",
+    "location": "Pune",
+    "description": "As a Field Accountant, you will manage client site accounting, prepare financial reports, ensure compliance, and support audits."
+  },
+  {
+    "id": 3,
+    "title": "Branch Manager",
+    "salary": "Rs. 12000 per month",
+    "experience": "0 to 3 years",
+    "location": "Pune",
+    "description": "As a Branch Manager, you will oversee branch operations, manage teams, achieve business goals, and ensure client satisfaction."
+  },
+  {
+    "id": 4,
+    "title": "Telecaller",
+    "salary": "Rs. 12000 per month",
+    "experience": "0 to 3 years",
+    "location": "Pune",
+    "description": "As a Telecaller, you will handle inbound and outbound calls, explain services, maintain client records, and ensure customer satisfaction."
+  },
+  {
+    "id": 5,
+    "title": "Field Accountant",
+    "salary": "Rs. 12000 per month",
+    "experience": "0 to 3 years",
+    "location": "Pune",
+    "description": "As a Field Accountant, you will manage client site accounting, prepare financial reports, ensure compliance, and support audits."
+  },
+  {
+    "id": 6,
+    "title": "Branch Manager",
+    "salary": "Rs. 12000 per month",
+    "experience": "0 to 3 years",
+    "location": "Pune",
+    "description": "As a Branch Manager, you will oversee branch operations, manage teams, achieve business goals, and ensure client satisfaction."
+  }
+]
